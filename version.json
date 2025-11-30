@@ -1,0 +1,31 @@
+{
+  "name": "skycode",
+  "version": "1.107.0.1",
+  "vscode_base": "1.107.0",
+  "skycode_patch": "1",
+  "description": "VS Code customizado com integrações IA - Skybridge",
+  "author": "h4mn",
+  "quality": "skycode",
+  "product_name": "SkyCode",
+  "application_name": "skycode",
+  "data_folder_name": "skycode",
+  "server_data_folder_name": ".skycode-server",
+  "build_date": "2025-11-30",
+  "status": "development",
+  "web_server": {
+    "port": 3001,
+    "url": "http://localhost:3001"
+  },
+  "vscode_fork": {
+    "repo": "https://github.com/h4mn/vscode.git",
+    "upstream": "https://github.com/microsoft/vscode.git",
+    "branch": "skycode/v1.0.0"
+  },
+  "features": {
+    "ai_integration": "planned",
+    "custom_themes": "planned",
+    "branding": "planned",
+    "desktop_build": "partial",
+    "web_build": "functional"
+  }
+}
