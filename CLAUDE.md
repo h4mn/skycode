@@ -6,6 +6,22 @@ Este arquivo fornece orientações para o Claude Code (claude.ai/code) ao trabal
 
 SkyCode é uma distribuição customizada do VS Code com integrações de IA (Skybridge). O projeto segue uma arquitetura modular onde o core do VS Code permanece como um fork limpo enquanto funcionalidades customizadas são desenvolvidas de forma independente.
 
+### Idioma do Projeto
+
+**Língua Principal**: Português Brasileiro (pt-BR)
+
+Todo o projeto SkyCode é desenvolvido e documentado primariamente em português brasileiro:
+- Documentação técnica e guias em pt-BR
+- Comentários de código e estruturas em pt-BR
+- Interface e branding localizados para pt-BR
+- Roadmap e planejamento em português
+- Comunicação e issue tracking em português
+
+**Suporte Internacional**: Embora o foco seja pt-BR, o código mantém:
+- Nomes de variáveis e funções em inglês (padrão de desenvolvimento)
+- Integrações com APIs externas em inglês
+- Suporte para contribuições multilíngues
+
 ## Estrutura do Repositório
 
 ```
