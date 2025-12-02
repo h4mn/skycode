@@ -1,0 +1,23 @@
+{
+	"displayName": "Português (Brasil)",
+	"description": "Language pack for VS Code in Portuguese (Brazilian)",
+	"vscode": "^1.107.0",
+	"publisher": "SkyCode-Project",
+	"engines": {
+		"vscode": "^1.107.0"
+	},
+	"categories": [
+		"Language Packs"
+	],
+	"contributes": {
+		"localizations": [
+			{
+				"languageId": "ptb",
+				"languageName": "Português (Brasil)",
+				"localizedLanguageName": "Português (Brasil)"
+			}
+		]
+	},
+	"dependencies": {},
+	"extensionPack": []
+}
