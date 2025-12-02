@@ -127,3 +127,7 @@ compile-logs/
 # Windows system files
 nul
 NUL
+
+# Claude Code settings (local user configuration)
+.claude/settings.local.json
+.claude/cache/
